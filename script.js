@@ -1,7 +1,7 @@
 // Lists of variables
-const variable1 = ["Hello", "Hi", "Hey"];
-const variable2 = ["world", "everyone", "folks"];
-const variable3 = ["!", ".", "..."];
+const variable1 = ["Hello", "Hi", "Hey", "Holla", "Greetings"];
+const variable2 = ["world", "everyone", "folks", "friends"];
+const variable3 = ["!", ".", "...", "😅", "😎"];
 
 // Function to generate a random message composed of 2 or 3 variables
 function generateRandomMessage() {
